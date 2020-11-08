@@ -4,7 +4,7 @@ Hey there! My name is Aditya Rajan and I am currently pursuing a degree in compu
 Web development is a hobby of mine and I make it a point to read about and experiment with new libraries and technologies to expand my horizons.
 
 ## Certifications ##
-I have been certified by Microsoft as a Microsoft Technology Associate (MTA) in JavaScript.
+I have been certified as a Microsoft Technology Associate (MTA) in JavaScript.
 
 ## Tech Stack ##
 My primary choice among programming languages is C++ and the web development tech stack I have experience in includes: Mongo DB, Express and Node.js.
