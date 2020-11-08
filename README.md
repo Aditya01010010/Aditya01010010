@@ -11,7 +11,10 @@ My primary choice among programming languages is C++ and the web development tec
 
 I am presently in the process of learning React and have previously worked with libraries such as Passport.js, WebRTC and Socket.io in my projects.
 
-Academically, I have experience working with: (1) R (2) Statistical Analysis using Python (3) MySQL
+Academically, I have experience working with: 
+  * R  
+  * Statistical Analysis using Python 
+  * MySQL
 
-
+## Profile ##
 Check out my HackerRank profile here: https://www.hackerrank.com/FriedBurger_10?hr_r=1
