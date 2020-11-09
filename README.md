@@ -6,7 +6,7 @@ Web development is a hobby of mine and I make it a point to read about and exper
 ## Certifications ##
 I have been certified as a Microsoft Technology Associate (MTA) in JavaScript.
 
-## Tech Stack ##
+## Technology Stack ##
 My primary choice among programming languages is C++ and the web development tech stack I have experience in includes: Mongo DB, Express and Node.js.
 
 I am presently in the process of learning React and have previously worked with libraries such as Passport.js, WebRTC and Socket.io in my projects.
